@@ -1,0 +1,11 @@
+1;ivanov;pass123;ivanov@mail.ru;+79161234567
+2;petrov;qwerty;petrov@mail.ru;+79169876543
+3;sidorov;123456;sidorov@mail.ru;+79165555555
+4;smirnov;abc123;smirnov@mail.ru;+79160000001
+5;popova;password;popova@mail.ru;+79160000002
+6;kozlov;hello123;kozlov@mail.ru;+79160000003
+7;orlova;secret;orlova@mail.ru;+79160000004
+8;novikov;welcome1;novikov@mail.ru;+79160000005
+9;volkova;spring2024;volkova@mail.ru;+79160000006
+10;fedorov;winter25;fedorov@mail.ru;+7916000000711
+11;1;1;1;1

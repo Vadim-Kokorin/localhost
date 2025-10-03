@@ -1,0 +1,11 @@
+fox:123:fox@mail.com:79151234567
+jd:qwe:jd@ya.ru:79037654321
+az:pass:az@gmail.com:79259871234
+mk:456:mk@inbox.ru:79530129876
+test:test:test@list.ru:79168765432
+user:111:user@bk.ru:79091234587
+demo:demo:demo@yandex.ru:79265478901
+admin:admin:admin@gmail.com:79111223344
+max:777:max@mail.ru:79035671289
+ira:zxc:ira@rambler.ru:79214386590
+123:123:@sergei:12312312312
